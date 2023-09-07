@@ -1,0 +1,13 @@
+{
+  "id": "template",
+  "title": "My Template",
+  "image": "projects/template/image.jpg",
+  "description": "A great description of my project.",
+  "author": "Jonny Appleseed",
+  "authorUrl": "http://example.com",
+  "year": 2023,
+  "url": "http://my.project.url",
+  "thesisUrl": "http://url.to.my.thesis",
+  "repoUrl": "http://url.to.my.github",
+  "abstract": "My abstract. Use \n for new lines."
+}
